@@ -1,0 +1,8 @@
+{
+  "name": "AgentDeck",
+  "description": "A unified workbench for composing, testing, and deploying high-performance AI agents and system prompts.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
